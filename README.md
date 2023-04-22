@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+**Introduction**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Entity Wallet is a blockchain-based wallet solution that leverages the principles of account abstraction (EIP 4337) to enable a master wallet to manage transactions and gas payments on behalf of its child wallets.
 
-## Available Scripts
+The Entity Wallet aims to provide a secure and user-friendly experience for managing cryptocurrency assets, while also addressing the limitations of traditional cryptocurrency wallets.
 
-In the project directory, you can run:
+**Problem Statement:** 
 
-### `npm start`
+Managing cryptocurrency transactions and ensuring the security of private keys can be challenging and complex for end users, especially those with limited blockchain knowledge. Additionally, traditional wallet solutions often lack user-friendly recovery processes for users who lose access to their account credentials. There is a need for a secure, user-friendly, and scalable wallet solution that simplifies transaction management, offers seamless recovery processes, and provides a high level of security to protect users' assets.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Usage**
+To use the Entity Wallet web application, please follow these steps:
+1. Log in to the Entity Wallet using your Ethereum wallet.
+2. Create child wallets within the Entity Wallet.
+3. Send and receive transactions using the child wallets.
+4. The master wallet will manage gas fees on behalf of the child wallets, making transactions more cost-effective.
+5. In the event that a child wallet loses access to their social login/smart contract account, they can recover their funds through the Entity Wallet.
+We welcome contributions to the Entity Wallet web application! If you would like to contribute, please follow these steps:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Fork this repository.**
+Create a new branch for your feature or bug fix.
+Make your changes and commit them to your branch.
+Push your branch to your fork of the repository.
+Submit a pull request to this repository.
+License
+The Entity Wallet web application is licensed under the MIT License. See LICENSE for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Contributing**
+We welcome contributions to the Entity Wallet web application! If you would like to contribute, please follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ • Fork this repository.
+ • Create a new branch for your feature or bug fix.
+ • Make your changes and commit them to your branch.
+ • Push your branch to your fork of the repository.
+ • Submit a pull request to this repository.
+ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Reference: **
+ • 
