@@ -48,9 +48,7 @@ We welcome contributions to the Entity Wallet web application! If you would like
  • **License:** The Entity Wallet web application is licensed under the MIT License. See LICENSE for more information.
 
 
-
-
-**Reference: **
+**Reference:**
 
  • https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/account-abstraction/
 
