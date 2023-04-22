@@ -21,24 +21,37 @@ We welcome contributions to the Entity Wallet web application! If you would like
 
 
 **Contributing**
+
 We welcome contributions to the Entity Wallet web application! If you would like to contribute, please follow these steps:
 
  • Fork this repository.
+
  • Create a new branch for your feature or bug fix.
+
  • Make your changes and commit them to your branch.
+
  • Push your branch to your fork of the repository.
+
  • Submit a pull request to this repository.
+
  
 **Fork this repository**
 
  • Create a new branch for your feature or bug fix.
+
  • Make your changes and commit them to your branch.
+
  • Push your branch to your fork of the repository.
+
  • Submit a pull request to this repository.
+
  • **License:** The Entity Wallet web application is licensed under the MIT License. See LICENSE for more information.
 
 
+
+
 **Reference: **
+
  • https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/account-abstraction/
 
  • https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a
