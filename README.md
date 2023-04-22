@@ -40,8 +40,13 @@ We welcome contributions to the Entity Wallet web application! If you would like
 
 **Reference: **
  • https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/account-abstraction/
+
  • https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a
+
  • https://eips.ethereum.org/EIPS/eip-4337
+
  • https://github.com/proofofsoulprotocol/soul-wallet-contract
+
  • https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+
 and there are so many references has been used to develop this project. 
