@@ -10,6 +10,7 @@ Managing cryptocurrency transactions and ensuring the security of private keys c
 
 
 **Usage**
+
 To use the Entity Wallet web application, please follow these steps:
 1. Log in to the Entity Wallet using your Ethereum wallet.
 2. Create child wallets within the Entity Wallet.
@@ -17,15 +18,6 @@ To use the Entity Wallet web application, please follow these steps:
 4. The master wallet will manage gas fees on behalf of the child wallets, making transactions more cost-effective.
 5. In the event that a child wallet loses access to their social login/smart contract account, they can recover their funds through the Entity Wallet.
 We welcome contributions to the Entity Wallet web application! If you would like to contribute, please follow these steps:
-
-
-**Fork this repository.**
-Create a new branch for your feature or bug fix.
-Make your changes and commit them to your branch.
-Push your branch to your fork of the repository.
-Submit a pull request to this repository.
-License
-The Entity Wallet web application is licensed under the MIT License. See LICENSE for more information.
 
 
 **Contributing**
@@ -37,6 +29,19 @@ We welcome contributions to the Entity Wallet web application! If you would like
  • Push your branch to your fork of the repository.
  • Submit a pull request to this repository.
  
+**Fork this repository**
+
+ • Create a new branch for your feature or bug fix.
+ • Make your changes and commit them to your branch.
+ • Push your branch to your fork of the repository.
+ • Submit a pull request to this repository.
+ • **License:** The Entity Wallet web application is licensed under the MIT License. See LICENSE for more information.
+
 
 **Reference: **
- • 
+ • https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/account-abstraction/
+ • https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a
+ • https://eips.ethereum.org/EIPS/eip-4337
+ • https://github.com/proofofsoulprotocol/soul-wallet-contract
+ • https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+and there are so many references has been used to develop this project. 
